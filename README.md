@@ -14,7 +14,7 @@ This is a simple Streamlit application created for the "Interactive Application 
 
 ## Deployed App
 
-[Link to your Streamlit App will go here later]
+[https://nick-ml-app.streamlit.app](nick-ml-app.streamlit.app)
 
 ## How to Run Locally
 
